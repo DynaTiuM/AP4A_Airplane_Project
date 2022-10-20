@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/rapha/AP4A/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\TP_Note.dir\\Main.cpp.obj -c C:\\Users\\rapha\\AP4A\\src\\Main.cpp",
+  "file": "C:/Users/rapha/AP4A/src/Main.cpp"
+},
+{
+  "directory": "C:/Users/rapha/AP4A/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\TP_Note.dir\\Scheduler.cpp.obj -c C:\\Users\\rapha\\AP4A\\src\\Scheduler.cpp",
+  "file": "C:/Users/rapha/AP4A/src/Scheduler.cpp"
+},
+{
+  "directory": "C:/Users/rapha/AP4A/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\TP_Note.dir\\Server.cpp.obj -c C:\\Users\\rapha\\AP4A\\src\\Server.cpp",
+  "file": "C:/Users/rapha/AP4A/src/Server.cpp"
+}
+]

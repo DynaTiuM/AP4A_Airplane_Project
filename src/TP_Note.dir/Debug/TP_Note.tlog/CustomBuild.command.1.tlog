@@ -1,0 +1,10 @@
+^C:\USERS\RAPHA\AP4A\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rapha/AP4A/src -BC:/Users/rapha/AP4A/src --check-stamp-file C:/Users/rapha/AP4A/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
